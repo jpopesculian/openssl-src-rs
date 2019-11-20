@@ -172,6 +172,7 @@ impl Build {
             "x86_64-unknown-dragonfly" => "BSD-x86_64",
             "x86_64-unknown-linux-gnu" => "linux-x86_64",
             "x86_64-unknown-linux-musl" => "linux-x86_64",
+            "x86_64-scone-linux-musl" => "linux-x86_64",
             "x86_64-unknown-netbsd" => "BSD-x86_64",
             "wasm32-unknown-emscripten" => "gcc",
             "wasm32-unknown-unknown" => "gcc",
